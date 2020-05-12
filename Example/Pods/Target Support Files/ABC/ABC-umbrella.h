@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "A.h"
 
 FOUNDATION_EXPORT double ABCVersionNumber;
 FOUNDATION_EXPORT const unsigned char ABCVersionString[];

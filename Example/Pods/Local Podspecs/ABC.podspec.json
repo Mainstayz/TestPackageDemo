@@ -12,11 +12,13 @@
     "mainstayz": "hezongzhu@gmail.com"
   },
   "source": {
-    "git": "https://github.com/mainstayz/ABC.git",
+    "git": "https://github.com/Mainstayz/TestPackageDemo.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "ABC/Classes/**/*"
+  "source_files": "ABC/Classes/**/*",
+  "public_header_files": "ABC/Classes/**/*.h",
+  "frameworks": "Foundation"
 }
